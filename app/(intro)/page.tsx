@@ -10,7 +10,7 @@ const IntroPage = () => {
             <div className='w-full h-full flex-1 flex flex-col gap-10 justify-center items-start text-white'>
                 <h1 className='text-3xl text-primary uppercase font-bold'>Be the King of Your <br />
                     Own Legend</h1>
-                <p>Introducing Arthur Exchange: Where Linea's potential meets DeFi innovation. A unified platform merging a Decentralized Exchange and Launchpad, Arthur Exchange empowers Linea's community for seamless trading and project launches. Join us in shaping the future of decentralized finance.</p>
+                <p>Introducing Arthur Exchange: Where Linea&apos;s potential meets DeFi innovation. A unified platform merging a Decentralized Exchange and Launchpad, Arthur Exchange empowers Linea&apos;s community for seamless trading and project launches. Join us in shaping the future of decentralized finance.</p>
                 <div className='relative w-[130px] h-[130px]'>
                     <div className='absolute top-0 bottom-0 right-0 left-0 z-0 w-[130px] h-[130px] rounded-full bg-primary/20'></div>
                     <div className='absolute top-1/2 left-1/2 -translate-x-1/2 -translate-y-1/2 z-10 w-[115px] h-[115px] rounded-full bg-primary/40'></div>
